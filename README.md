@@ -1,8 +1,8 @@
-# Majora's Mask: Recompiled Mod Template
+# MM Fast Climb
 
-This is an example mod for Majora's Mask: Recompiled that can be used as a template for creating mods. It has a basic build system, headers, sample code, and a mod config toml.
+Set your climbing speed to a customizable rate!
 
-Example code for using the recompui API to build ingame UI can be found in the `ui-example` branch.
+# Majora's Mask: Recompiled Modding Information
 
 ### Writing mods
 See [this document](https://hackmd.io/fMDiGEJ9TBSjomuZZOgzNg) for an explanation of the modding framework, including how to write function patches and perform interop between different mods.
